@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### 👊 Skills
+
+![Spring](https://img.shields.io/badge/Spring-FFFFFF?stlye=flat-square&logo=Spring) ![Spring Boot](https://img.shields.io/badge/SpringBoot-FFFFFF?stlye=flat-square&logo=SpringBoot)
+
+### 👊 Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakHyeonKim&show_icons=true&theme=dark)
+
+
+
 <!--
 **LakHyeonKim/lakhyeonKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
