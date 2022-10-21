@@ -2,7 +2,17 @@
 
 ### 👊 Skills
 
+#### 💪 Language
+
+
+
+#### 💪 Framework
+
 ![Spring](https://img.shields.io/badge/Spring-FFFFFF?stlye=flat-square&logo=Spring) ![Spring Boot](https://img.shields.io/badge/SpringBoot-FFFFFF?stlye=flat-square&logo=SpringBoot)
+
+#### 💪 Repository
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> 
 
 ### 👊 Stats
 
@@ -24,3 +34,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👊 Etc
+
+#### 📖 Study
+
+- [M001: MongoDB Basics](https://university.mongodb.com/course_completion/9482b682-f2ab-4efd-8f7e-3aa86ad739f8?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
