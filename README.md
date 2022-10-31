@@ -34,9 +34,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### 👊 Etc
-
-#### 📖 Study
-
-- [M001: MongoDB Basics](https://university.mongodb.com/course_completion/9482b682-f2ab-4efd-8f7e-3aa86ad739f8?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
