@@ -2,15 +2,15 @@
 
 ### 👊 Skills
 
-#### 💪 Language
+##### - 💪 Language
 
 
 
-#### 💪 Framework
+##### - 💪 Framework
 
 ![Spring](https://img.shields.io/badge/Spring-FFFFFF?stlye=flat-square&logo=Spring) ![Spring Boot](https://img.shields.io/badge/SpringBoot-FFFFFF?stlye=flat-square&logo=SpringBoot)
 
-#### 💪 Repository
+##### - 💪 Repository
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> 
 
